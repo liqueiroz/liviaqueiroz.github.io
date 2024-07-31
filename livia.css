@@ -1,0 +1,63 @@
+body  {
+
+    background-color: cadetblue;
+    
+
+}
+
+h1    {
+
+    -webkit-text-fill-color: rgb(194, 0, 253);
+    text-align: center;
+
+}
+
+p      {
+    
+margin: 25px;
+padding-right: 30px;
+
+} 
+
+.imagem {
+
+    height: 400px;
+    width: 400px;
+    margin-left: 38%;
+}
+
+.logo {
+
+    width: 30px;
+    height: 30px;
+    
+
+}
+.card{
+
+    float:left;
+}
+
+.titulo {
+
+    display:block;
+    margin: auto;
+    text-align: center;
+    
+
+}
+
+.ola {
+
+    padding-top: 200px;
+
+}
+
+.cartao {
+
+    display: flex;
+    margin: auto;
+    padding-left: 100px;
+    align-items: center;
+
+}
